@@ -23,4 +23,3 @@
 <circle cx="846" cy="80" r="22" fill="url(#glass)" stroke="url(#edge)"/>
 <path d="M837 80 H854 M848 73 L855 80 L848 87" fill="none" stroke="#A371F7" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
-
