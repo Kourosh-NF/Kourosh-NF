@@ -1,71 +1,91 @@
-<svg width="1000" height="280" viewBox="0 0 1000 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kourosh - Linux, Networking, Infrastructure">
+<svg width="1000" height="280" viewBox="0 0 1000 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hi, I'm Kourosh - Linux, Networking, Infrastructure" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYToyOGUyMGEwMy04MDU3LTQ5MDQtYmY5OS0xYTVjYWMwMWE0ZTAAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaDSGQkmWpxiBGUdB/OO1j08AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo1ZTBmOTRjMy0yOTRmLTQ5M2YtOTQ0NC1mNmQ5YTZmODY4NmZscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo1smCI3f9cxQ3xf7QrWEbEwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg1Oplujc7DbJfp/OGtlCUgyO3Mdi+wWQpm8Du+Tk6wo2kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaAQxFq3l/Tmslxds1mcp2WMAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAkLrMiY+S0smb2XyNHTxxrRlVrSK7OOEWyTI9M8f5O0mRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjkZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjI4ZTIwYTAzLTgwNTctNDkwNC1iZjk5LTFhNWNhYzAxYTRlMC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmFmNzRhZjAyLWU3YmYtNDA0Mi04MjJhLTgyMjM0YjA2MTIwNnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDU6mW6NzsNsl+n84a2UJSDI7cx2L7BZCmbwO75OTrCjaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggav5v+f5PZrcDQiE60quxdm9LulyWpBdPnS/Qn4cLM8OiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggI/WPtDae3jTwYtFIwyvHeF67HaCnMNdKIvmX9Ksna4N0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQAa3Y2jG6ldJOjVXUW1x2GA57WHqkYE7I5maJmMNtWugAaszgFlsnueG2Y6jaINcyGQm+hjoYMivlIwITNxDcgI=</c2pa:manifest></metadata>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0D1117"/>
-      <stop offset="1" stop-color="#0B1F3A"/>
+      <stop offset="1" stop-color="#101C33"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#1F6FEB" stop-opacity="0.35"/>
+    <radialGradient id="blobBlue" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#1F6FEB" stop-opacity="0.55"/>
       <stop offset="1" stop-color="#1F6FEB" stop-opacity="0"/>
     </radialGradient>
+    <radialGradient id="blobPurple" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#8957E5" stop-opacity="0.40"/>
+      <stop offset="1" stop-color="#8957E5" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blobTeal" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#39D0D8" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#39D0D8" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.03"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.06"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#79C0FF"/>
+    </linearGradient>
+    <clipPath id="clip"><rect width="1000" height="280" rx="16"/></clipPath>
   </defs>
   <style>
+    .sans { font-family: 'Inter','Segoe UI',Helvetica,Arial,sans-serif; }
     .mono { font-family: 'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace; }
-    .prompt { fill: #3FB950; font-size: 15px; }
-    .cmd { fill: #C9D1D9; font-size: 15px; }
-    .out { fill: #58A6FF; font-size: 15px; }
-    .dim { fill: #8B949E; font-size: 13px; }
-    .cursor { fill: #58A6FF; animation: blink 1s steps(1) infinite; }
-    .link { stroke: #1F6FEB; stroke-opacity: 0.45; stroke-width: 1.5; }
-    .node { fill: #0D1117; stroke: #58A6FF; stroke-width: 2; }
-    .pulse { fill: none; stroke: #58A6FF; stroke-width: 1.5; transform-origin: 790px 140px; animation: pulse 3s ease-out infinite; }
-    @keyframes blink { 50% { opacity: 0; } }
-    @keyframes pulse { 0% { transform: scale(0.6); opacity: 0.8; } 100% { transform: scale(2.4); opacity: 0; } }
+    .flow { stroke: #79C0FF; stroke-opacity: 0.5; stroke-width: 1.5; stroke-dasharray: 4 6; animation: flow 2.5s linear infinite; }
+    .dot { fill: #3FB950; transform-origin: 82px 215px; animation: pulse 2s ease-out infinite; }
+    @keyframes flow { to { stroke-dashoffset: -20; } }
+    @keyframes pulse { 0% { opacity: 0.9; } 100% { opacity: 0.35; } }
   </style>
 
-  <rect x="0.5" y="0.5" width="999" height="279" rx="14" fill="url(#bg)" stroke="#30363D"/>
-  <circle cx="790" cy="140" r="190" fill="url(#glow)"/>
-
-  <!-- Network topology -->
-  <g>
-    <line class="link" x1="790" y1="140" x2="650" y2="70"/>
-    <line class="link" x1="790" y1="140" x2="640" y2="190"/>
-    <line class="link" x1="790" y1="140" x2="720" y2="240"/>
-    <line class="link" x1="790" y1="140" x2="890" y2="55"/>
-    <line class="link" x1="790" y1="140" x2="940" y2="150"/>
-    <line class="link" x1="790" y1="140" x2="860" y2="238"/>
-    <line class="link" x1="650" y1="70" x2="890" y2="55"/>
-    <line class="link" x1="940" y1="150" x2="860" y2="238"/>
-    <line class="link" x1="640" y1="190" x2="720" y2="240"/>
-
-    <circle class="node" cx="650" cy="70" r="7"/>
-    <circle class="node" cx="640" cy="190" r="7"/>
-    <circle class="node" cx="720" cy="240" r="7"/>
-    <circle class="node" cx="890" cy="55" r="7"/>
-    <circle class="node" cx="940" cy="150" r="7"/>
-    <circle class="node" cx="860" cy="238" r="7"/>
-
-    <circle class="pulse" cx="790" cy="140" r="22"/>
-    <circle class="node" cx="790" cy="140" r="20"/>
-    <circle cx="790" cy="140" r="9" fill="#58A6FF"/>
+  <g clip-path="url(#clip)">
+    <rect width="1000" height="280" fill="url(#bg)"/>
+    <circle cx="820" cy="40" r="260" fill="url(#blobBlue)"/>
+    <circle cx="120" cy="260" r="240" fill="url(#blobPurple)"/>
+    <circle cx="520" cy="310" r="170" fill="url(#blobTeal)"/>
   </g>
+  <rect x="0.5" y="0.5" width="999" height="279" rx="16" fill="none" stroke="#30363D"/>
 
-  <!-- Terminal window -->
-  <rect x="30" y="30" width="540" height="220" rx="10" fill="#010409" fill-opacity="0.92" stroke="#30363D"/>
-  <path d="M30 40 a10 10 0 0 1 10 -10 h520 a10 10 0 0 1 10 10 v18 h-540 z" fill="#161B22"/>
-  <circle cx="52" cy="44" r="5" fill="#FF5F56"/>
-  <circle cx="72" cy="44" r="5" fill="#FFBD2E"/>
-  <circle cx="92" cy="44" r="5" fill="#27C93F"/>
-  <text class="mono dim" x="300" y="48" text-anchor="middle">kourosh@linux: ~</text>
+  <!-- Glass card -->
+  <rect x="36" y="36" width="928" height="208" rx="22" fill="url(#glass)" stroke="url(#edge)" stroke-width="1"/>
 
-  <text class="mono prompt" x="50" y="92">kourosh@linux:~$</text>
-  <text class="mono cmd" x="205" y="92">whoami</text>
-  <text class="mono out" x="50" y="118">Kourosh | Linux &amp; Network Enthusiast</text>
+  <!-- Text -->
+  <text class="sans" x="76" y="92" fill="#8B949E" font-size="13" letter-spacing="3">HI, I'M</text>
+  <text class="sans" x="74" y="152" fill="url(#nameGrad)" font-size="62" font-weight="700">Kourosh</text>
+  <text class="sans" x="76" y="188" fill="#C9D1D9" font-size="20">Linux  ·  Networking  ·  Infrastructure</text>
+  <circle class="dot" cx="82" cy="215" r="4.5"/>
+  <text class="sans" x="98" y="220" fill="#8B949E" font-size="14">Open to work  ·  IT student</text>
 
-  <text class="mono prompt" x="50" y="156">kourosh@linux:~$</text>
-  <text class="mono cmd" x="205" y="156">cat focus.txt</text>
-  <text class="mono out" x="50" y="182">Linux · Networking · Infrastructure</text>
+  <!-- Topology -->
+  <g>
+    <line class="flow" x1="700" y1="100" x2="800" y2="150"/>
+    <line class="flow" x1="890" y1="100" x2="800" y2="150"/>
+    <line class="flow" x1="800" y1="150" x2="880" y2="210"/>
+    <line class="flow" x1="800" y1="150" x2="720" y2="212"/>
 
-  <text class="mono prompt" x="50" y="220">kourosh@linux:~$</text>
-  <rect class="cursor" x="206" y="206" width="10" height="18"/>
+    <!-- Terminal -->
+    <rect x="668" y="68" width="64" height="64" rx="16" fill="url(#glass)" stroke="url(#edge)"/>
+    <text class="mono" x="700" y="108" text-anchor="middle" fill="#79C0FF" font-size="22" font-weight="600">&gt;_</text>
+
+    <!-- Server -->
+    <rect x="858" y="68" width="64" height="64" rx="16" fill="url(#glass)" stroke="url(#edge)"/>
+    <rect x="874" y="84" width="32" height="12" rx="3" fill="none" stroke="#79C0FF" stroke-width="1.8"/>
+    <rect x="874" y="102" width="32" height="12" rx="3" fill="none" stroke="#79C0FF" stroke-width="1.8"/>
+    <circle cx="880" cy="90" r="1.6" fill="#3FB950"/>
+    <circle cx="880" cy="108" r="1.6" fill="#3FB950"/>
+
+    <!-- Hub -->
+    <rect x="756" y="110" width="88" height="88" rx="22" fill="url(#glass)" stroke="url(#edge)"/>
+    <circle cx="800" cy="136" r="5" fill="#79C0FF"/>
+    <circle cx="780" cy="172" r="5" fill="#79C0FF"/>
+    <circle cx="820" cy="172" r="5" fill="#79C0FF"/>
+    <line x1="800" y1="136" x2="780" y2="172" stroke="#79C0FF" stroke-width="1.8"/>
+    <line x1="800" y1="136" x2="820" y2="172" stroke="#79C0FF" stroke-width="1.8"/>
+    <line x1="780" y1="172" x2="820" y2="172" stroke="#79C0FF" stroke-width="1.8"/>
+
+    <!-- Small nodes -->
+    <circle cx="880" cy="210" r="7" fill="url(#glass)" stroke="url(#edge)"/>
+    <circle cx="720" cy="212" r="7" fill="url(#glass)" stroke="url(#edge)"/>
+  </g>
 </svg>
