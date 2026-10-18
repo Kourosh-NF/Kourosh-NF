@@ -2,29 +2,22 @@
 
 <img src="assets/banner.svg" alt="Hi, I'm Kourosh — Linux | Networking | Infrastructure" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=79C0FF&center=true&vCenter=true&width=560&height=30&lines=Building+practical+labs;Writing+tools+%26+documenting+what+I+learn;Open+to+Network+%26+Linux+roles" alt="Typing SVG"/>
+<img src="assets/typing.svg" alt="Building practical labs. Writing tools and documenting what I learn. Open to Network and Linux roles." width="560"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Network%20Admin%20%C2%B7%20Linux%20SysAdmin%20%C2%B7%20IT%20Support-238636?style=flat-square&labelColor=161B22"/>
-</p>
+<br/>
+
+<img src="assets/opentowork.svg" alt="Open to work: Network Admin, Linux SysAdmin, IT Support" width="560"/>
+
+<br/><br/>
+
+<img src="assets/terminal.svg" alt="Terminal: Kourosh — IT student, Linux and networking enthusiast. Roles: Network Administrator, Linux System Administrator, IT Support. Motto: Building practical labs, writing tools, and documenting what I learn." width="680"/>
 
 </div>
-
-```bash
-kourosh@linux:~$ whoami
-Kourosh — IT student, Linux & networking enthusiast
-
-kourosh@linux:~$ cat roles.txt
-Network Administrator | Linux System Administrator | IT Support
-
-kourosh@linux:~$ echo $MOTTO
-Building practical labs, writing tools, and documenting what I learn.
-```
 
 <img src="assets/header-skills.svg" alt="Skills" width="100%"/>
 
 <p align="center">
-  <img src="assets/skills.svg" alt="Skills: Linux, Bash, TCP/IP, Routing and Switching, MikroTik, VMware, Windows Server, HTML, CSS, Bootstrap, Python, JavaScript" width="100%"/>
+  <img src="assets/skills.svg" alt="Skills: Linux, Bash, TCP/IP, Routing and Switching, MikroTik, VMware, Windows Server, Active Directory, DNS, HTML, CSS, Bootstrap, Python, JavaScript" width="680"/>
 </p>
 
 <img src="assets/header-training.svg" alt="Training and Coursework" width="100%"/>
@@ -32,17 +25,17 @@ Building practical labs, writing tools, and documenting what I learn.
 <p align="center"><sub>Comprehensive IT infrastructure course (institute-issued certificates, not vendor exams). Hands-on focus on <b>Linux</b> and <b>CCNA</b>.</sub></p>
 
 <p align="center">
-  <img src="assets/training.svg" alt="Training: Linux LPIC, Cisco CCNA, MikroTik MTCNA, Windows Server MCSA, VMware VCSA, CompTIA A+ and Network+" width="100%"/>
+  <img src="assets/training.svg" alt="Training: Linux LPIC, Cisco CCNA, MikroTik MTCNA, Windows Server MCSA, VMware VCSA, CompTIA A+ and Network+" width="680"/>
 </p>
 
 <img src="assets/header-projects.svg" alt="Featured Projects" width="100%"/>
 
 <p align="center">
-  <a href="https://github.com/Kourosh-NF/perm"><img src="assets/card-perm.svg" alt="perm — Permission and Metadata Analyzer" width="100%"/></a>
+  <a href="https://github.com/Kourosh-NF/perm"><img src="assets/card-perm.svg" alt="perm — Permission and Metadata Analyzer" width="680"/></a>
   <br/><br/>
-  <a href="https://github.com/Kourosh-NF/Network-Labs"><img src="assets/card-network.svg" alt="Network Labs — VLAN, DHCP, OSPF" width="100%"/></a>
+  <a href="https://github.com/Kourosh-NF/Network-Labs"><img src="assets/card-network.svg" alt="Network Labs — VLAN, DHCP, OSPF" width="680"/></a>
   <br/><br/>
-  <a href="https://github.com/Kourosh-NF/Virtualization-Lab"><img src="assets/card-virtualization.svg" alt="Virtualization Lab — VMware, AD, DNS" width="100%"/></a>
+  <a href="https://github.com/Kourosh-NF/Virtualization-Lab"><img src="assets/card-virtualization.svg" alt="Virtualization Lab — VMware, AD, DNS" width="680"/></a>
 </p>
 
 <img src="assets/header-exploring.svg" alt="Currently Exploring" width="100%"/>
@@ -60,5 +53,5 @@ Building practical labs, writing tools, and documenting what I learn.
 </p>
 
 <p align="center">
-  <img src="assets/footer.svg" alt="Thanks for visiting my profile!" width="100%"/>
+  <img src="assets/footer.svg" alt="Thanks for visiting my profile!" width="560"/>
 </p>
