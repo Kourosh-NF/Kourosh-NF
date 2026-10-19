@@ -30,14 +30,10 @@
   <img src="assets/training.svg" alt="Training: Linux LPIC, Cisco CCNA, MikroTik MTCNA, Windows Server MCSA, VMware VCSA, CompTIA A+ and Network+" width="520"/>
 </p>
 
-<p align="center"><img src="assets/header-projects.svg" alt="Featured Projects" width="520"/></p>
+<p align="center"><img src="assets/header-projects.svg" alt="Projects" width="520"/></p>
 
 <p align="center">
   <a href="https://github.com/Kourosh-NF/perm"><img src="assets/card-perm.svg" alt="perm — Permission and Metadata Analyzer" width="520"/></a>
-  <br/><br/>
-  <a href="https://github.com/Kourosh-NF/Network-Labs"><img src="assets/card-network.svg" alt="Network Labs — VLAN, DHCP, OSPF" width="520"/></a>
-  <br/><br/>
-  <a href="https://github.com/Kourosh-NF/Virtualization-Lab"><img src="assets/card-virtualization.svg" alt="Virtualization Lab — VMware, AD, DNS" width="520"/></a>
 </p>
 
 <p align="center"><img src="assets/header-exploring.svg" alt="Currently Exploring" width="520"/></p>
